@@ -11,3 +11,9 @@
 NPLM loss: cross entropy
 
 pytorch: `NN.embed`
+
+negative sampling: 随机生成负样本，
+
+负样本loss函数为：Log(P)
+
+正样本loss函数为：-Log(P)
