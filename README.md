@@ -8,6 +8,7 @@
 
 梯度回溯，可以提取神经元的作用
 
+# 4.3
 NPLM loss: cross entropy
 
 pytorch: `NN.embed`
