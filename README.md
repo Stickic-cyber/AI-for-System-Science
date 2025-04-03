@@ -1,4 +1,5 @@
  # AI-for-System-Science
+ ## 3.27
 
 `backward`（BP算法）揭露学习本质
 
@@ -8,7 +9,7 @@
 
 梯度回溯，可以提取神经元的作用
 
-# 4.3
+## 4.3
 NPLM loss: cross entropy
 
 pytorch: `NN.embed`
