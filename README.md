@@ -29,3 +29,6 @@ negative sampling: 随机生成负样本，
 
 股票市场：每个投资主体都在适应，只有“做中学”才能应对多主体博弈
 
+Ablation(剥离实验)
+
+Dreamer V3
