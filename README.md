@@ -50,4 +50,4 @@ Simpson Paradox
 
 ![image](https://github.com/user-attachments/assets/755901d4-0197-4ba4-a379-e44580b00927)
 
-P()
+《The Book Of Why》
