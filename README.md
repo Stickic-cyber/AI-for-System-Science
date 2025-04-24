@@ -32,3 +32,11 @@ negative sampling: 随机生成负样本，
 Ablation(剥离实验)
 
 Dreamer V3
+
+
+## 4.24
+#### Casual Inference
+阶梯：关联——>干预——>反事实(控制变量)
+Data —— Bridge(Casual Inference) —— Model
+Simpson Paradox
+——>混淆变量 (Confounding Variable)是指与 自变量 和 因变量 均相关的变量
