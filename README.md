@@ -45,7 +45,11 @@ Simpson Paradox
 
 ——>混淆变量 (Confounding Variable)是指与 自变量 和 因变量 均相关的变量
 
-![b2e974c277e6750d056cdb61baf2527](https://github.com/user-attachments/assets/bca26c15-87e5-4648-b839-de147188d907)
+贝叶斯网络：表示条件概率
+
+因果图：表示因果关系
+
+![b2e974c277e6750d056cdb61baf2527 =100x100](https://github.com/user-attachments/assets/bca26c15-87e5-4648-b839-de147188d907)
 
 
 ![image](https://github.com/user-attachments/assets/755901d4-0197-4ba4-a379-e44580b00927)
