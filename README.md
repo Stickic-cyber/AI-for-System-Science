@@ -55,3 +55,11 @@ Simpson Paradox
 ![image](https://github.com/user-attachments/assets/755901d4-0197-4ba4-a379-e44580b00927)
 
 《The Book Of Why》
+
+
+## 5.15
+#### graph neural networks
+图——>随机初始节点，随机游走T步——>变成句子——>word2vec
+范畴论：个体的定义由外部联系决定
+集合论：个体的定义由内部元素决定
+
