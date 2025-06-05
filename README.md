@@ -96,3 +96,4 @@ Normalizing Flow可以生成任意分布
 #### Diffusion model
 中心极限定理
 机器学习一个向量场
+CLIP：将文本和图像编码，进行内积，对角线越大越好，其余元素越小越好
