@@ -88,4 +88,11 @@ LLM能在测试阶段学习，即 # in-context learning，上下文学习
 反池化：分数步伐（stride），往图像中间加入空白。
 
 #### VAE
+神经网络生成随机数
+reparameter
+VAE只能生成高斯分布
+Normalizing Flow可以生成任意分布
 
+#### Diffusion model
+中心极限定理
+机器学习一个向量场
